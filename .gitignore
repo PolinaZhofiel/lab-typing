@@ -1,0 +1,9 @@
+build/
+.qtcreator/
+*.user
+*.pro.user
+*.obj
+*.o
+*.exe
+*.manifest
+.DS_Store
